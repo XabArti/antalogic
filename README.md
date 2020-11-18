@@ -12,7 +12,7 @@ npm install
 
 npm run dev
 
-##TaskЖ
+## Задание
 
 1. You should create News and Category entities that can be:
 
